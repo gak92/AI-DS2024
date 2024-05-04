@@ -1,0 +1,9 @@
+
+BOOK:
+https://wesmckinney.com/book/preliminaries
+
+CHEAT_SHEET:
+https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
+DATA_SET:
+https://www.kaggle.com/datasets/mabdullahsajid/population-of-pakistan-dataset?resource=download
